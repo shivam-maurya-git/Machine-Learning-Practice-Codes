@@ -1,1 +1,14 @@
-
+Description of Columns of Wine Dataset Form Sklearn
+Alcohol: The alcohol content of the wine, measured in percentage.
+Malic Acid: The amount of malic acid present in the wine.
+Ash: The ash content of the wine, which represents the inorganic content.
+Alcalinity of Ash: The alkalinity of ash, or the basicity of the ash content.
+Magnesium: The amount of magnesium in the wine.
+Total Phenols: The total phenolic content in the wine.
+Flavanoids: The total flavonoid content, which are antioxidant compounds, in the wine.
+Nonflavanoid Phenols: The amount of non-flavonoid phenols in the wine.
+Proanthocyanins: The amount of proanthocyanins in the wine, which are antioxidant compounds.
+Color Intensity: The intensity of the color of the wine.
+Hue: The hue or color shade of the wine.
+OD280/OD315 of diluted wines: The ratio of the optical density of the wine at 280nm and 315nm. It is often used as a measure of protein content.
+Proline: The amount of proline, an amino acid, in the wine.
